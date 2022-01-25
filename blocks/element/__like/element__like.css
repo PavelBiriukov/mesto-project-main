@@ -1,0 +1,12 @@
+.element__like {
+    margin-right: 20px;
+    opacity: 1;
+    transition-duration: 0.5s;
+    display: block;
+}
+.element__like:hover {
+    opacity: .6;
+}
+.element__like_activ {
+    background-image: url(../../../image/Activ-lice.png);
+}
