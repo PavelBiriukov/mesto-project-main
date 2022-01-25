@@ -5,7 +5,8 @@
     height: auto;
     display: inline-block;
 }
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 535px) {
     .profile__avatar {
         margin-bottom: 26px;
     }

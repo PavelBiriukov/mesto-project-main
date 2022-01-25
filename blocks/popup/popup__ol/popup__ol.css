@@ -10,3 +10,9 @@
     flex-direction: column;
     flex-wrap: nowrap;
 }
+@media screen and (max-width: 320px) {
+    .popup__ol {
+        max-width: 282px;
+        top: 87px;
+    }
+}
