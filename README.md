@@ -1,5 +1,5 @@
 # Проект: Место
-Место, сайт опубликован по адресу: https://pavelbiriukov.github.io/russian-travel/
+Место, сайт опубликован по адресу:https://github.com/PavelBiriukov/mesto-project-main
 
 ### Обзор
 Проект о Место.
